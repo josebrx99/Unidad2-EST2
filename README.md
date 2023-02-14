@@ -1,28 +1,18 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# paqueteNIV
+# Unidad2-EST2
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-El objetivo principal es el recopilar una serie de funciones e
-instructivos que serán utilizados en el curso Nivelatorio de 
-Estadística 
+Tutorial de sobre conceptos básicos Unidad 2 del curso "Métodos estadísticos y simulación"
 
-## Installation
+## Instalación
 
 Este paquete esta en su versión de construcción, por tanto se encontrará
 alojado en GitHub durante su etapa de elaboración.
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("dgonxalex80/paqueteNIV")
-```
-
-## Examplo
-
-Con el siguiente comando carga las funciones del paquete:
-
-``` r
-library(paqueteNIV)
+devtools::install_github("josebrx99/Unidad2-EST2")
 ```
